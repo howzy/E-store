@@ -1,2 +1,2 @@
 # E-store
-A Ionic2 demo of online store
+An Ionic2 demo of online store
