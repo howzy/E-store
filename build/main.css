@@ -24058,7 +24058,7 @@ page-home .recommend-title p {
 }
 
 page-home .recommend-list {
-  height: 100px;
+  height: 115px;
 }
 
 page-home .recommend-list ion-row ion-col {
@@ -24273,7 +24273,6 @@ page-manager .logout p {
 
 page-me .account-info {
   background-color: #f53d3d;
-  background-image: url("../../assets/card-sf.png");
   height: 240px;
   position: relative;
 }
